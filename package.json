@@ -23,6 +23,9 @@
   "engines": {
     "node": ">= 6"
   },
+  "dependencies": {
+    "import-cwd": "^2.1.0"
+  },
   "peerDependencies": {
     "hexo": ">= 3",
     "node-sass": "^4.0.0",
